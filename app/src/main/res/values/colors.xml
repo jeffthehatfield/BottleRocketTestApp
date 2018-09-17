@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_background_light">#FFFFFF</color>
+    <color name="color_item_background_light">#d9d9d9</color>
+    <color name="color_text_light">#151515</color>
+    <color name="color_progress_outer_ring_light">#222780</color>
+    <color name="color_progress_inner_ring_light">#901348</color>
+
+    <color name="color_background_dark">#333333</color>
+    <color name="color_item_background_dark">#414141</color>
+    <color name="color_text_dark">#e3e3e3</color>
+    <color name="color_progress_outer_ring_dark">#3285e2</color>
+    <color name="color_progress_inner_ring_dark">#e23257</color>
+
+</resources>
